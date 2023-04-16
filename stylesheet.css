@@ -13,10 +13,12 @@ body {
 }
 
 .pictureView {
-    border-radius:25px;
+    border-radius:10px;
     background-color: #008F8C;
-    width:500px;
-    height:300px;
+    width:680px;
+    height:450px;
+    margin-left: 10px;
+    margin-top: 20px;
 }
 
 .pictureTitle{
